@@ -1,1 +1,2 @@
 salam
+this text is from terminal
